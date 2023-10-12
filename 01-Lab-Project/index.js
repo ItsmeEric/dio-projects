@@ -1,4 +1,4 @@
-// Troque o nome ou a quantidade de XP por nome ou númeor que desejar.
+// Troque o nome ou a quantidade de XP pelo nome ou número que desejar.
 
 const nomeDoHeroi = "Dylan007";
 
